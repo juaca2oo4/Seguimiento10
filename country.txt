@@ -1,0 +1,1 @@
+[{"name":"colombia","oro":4,"plata":0,"bronce":0},{"name":"argentina","oro":0,"plata":2,"bronce":0},{"name":"brasil","oro":4,"plata":0,"bronce":0}]
